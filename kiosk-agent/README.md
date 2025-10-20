@@ -128,7 +128,7 @@ uv pip install -r requirements.txt
 ```env
 # OpenAI API 설정
 OPENAI_API_KEY=sk-your-openai-api-key-here
-OPENAI_MODEL=gpt-4-turbo-preview
+OPENAI_MODEL=gpt-4o-mini
 
 # Mem0 설정 (선택사항)
 MEM0_API_KEY=your-mem0-api-key-here
